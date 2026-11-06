@@ -1,0 +1,3 @@
+date,engine,question_id,question,run,named_us,cited_our_site,competitors_named,sites_cited,app,notes
+2026-11-10,Claude API,Q01,What is the best platform to find YouTube creators to sponsor?,1,no,no,"Competitor A; Competitor B","g2.com; example.com",,example row: delete
+2026-11-30,ChatGPT app (spot check),Q01,What is the best platform to find YouTube creators to sponsor?,1,no,no,"Competitor A","example.com",chatgpt.com logged out,example row: delete
