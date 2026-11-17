@@ -2,6 +2,8 @@
 
 Track which Google searches and AI answers (ChatGPT, Claude, Gemini, Perplexity) send people to your business, and get the three changes most likely to matter. You build it with Claude Code. Most of it runs on its own once it's set up.
 
+**Free.** Read it on the web at [bonuslevelstudio.com/guides/ai-search-tracker](https://bonuslevelstudio.com/guides/ai-search-tracker?utm_source=github&utm_medium=readme). If it helps you, star this repo. That is how other people find it.
+
 ![The tracker in five levels](assets/tracker.png)
 
 ## Why this exists
